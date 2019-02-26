@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Report a bug encountered while using terraform-examples 
-labels: kind/bug
+labels: bug
 
 ---
 
